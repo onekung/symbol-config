@@ -1,5 +1,5 @@
 { 
-   "symbol_version":160920191814,
+   "symbol_version":200920191735,
    "assets":[ 
       { 
          "name":"BTC",
@@ -68,7 +68,8 @@
             "name":"USDT",
             "prec":4
          },
-         "min_amount":"0.001"
+         "min_amount":"0.001",
+         "lock":false
       },
       { 
          "name":"ETH_USDT",
@@ -80,7 +81,8 @@
             "name":"USDT",
             "prec":4
          },
-         "min_amount":"0.001"
+         "min_amount":"0.001",
+         "lock":false
       },
       { 
          "name":"LTC_USDT",
@@ -92,7 +94,8 @@
             "name":"USDT",
             "prec":4
          },
-         "min_amount":"0.001"
+         "min_amount":"0.001",
+         "lock":false
       },
       { 
          "name":"BCH_USDT",
@@ -104,7 +107,8 @@
             "name":"USDT",
             "prec":4
          },
-         "min_amount":"0.001"
+         "min_amount":"0.001",
+         "lock":false
       },
       { 
          "name":"EURD_USDT",
@@ -116,7 +120,8 @@
             "name":"USDT",
             "prec":4
          },
-         "min_amount":"0.001"
+         "min_amount":"0.001",
+         "lock":false
       },
       { 
          "name":"XLM_USDT",
@@ -128,7 +133,8 @@
             "name":"USDT",
             "prec":4
          },
-         "min_amount":"0.001"
+         "min_amount":"0.001",
+         "lock":false
       },
       { 
          "name":"BAT_USDT",
@@ -140,7 +146,8 @@
             "name":"USDT",
             "prec":4
          },
-         "min_amount":"0.001"
+         "min_amount":"0.001",
+         "lock":false
       },
       { 
          "name":"DAI_USDT",
@@ -152,7 +159,8 @@
             "name":"USDT",
             "prec":4
          },
-         "min_amount":"0.001"
+         "min_amount":"0.001",
+         "lock":false
       },
       { 
          "name":"REP_USDT",
@@ -164,7 +172,8 @@
             "name":"USDT",
             "prec":4
          },
-         "min_amount":"0.001"
+         "min_amount":"0.001",
+         "lock":false
       },
       { 
          "name":"ZRX_USDT",
@@ -176,7 +185,8 @@
             "name":"USDT",
             "prec":4
          },
-         "min_amount":"0.001"
+         "min_amount":"0.001",
+         "lock":false
       }
    ]
 }
