@@ -1,5 +1,5 @@
 { 
-   "symbol_version":200920191735,
+   "symbol_version":60220201210,
    "assets":[ 
       { 
          "name":"BTC",
@@ -53,6 +53,11 @@
       },
       { 
          "name":"ZRX",
+         "prec_save":12,
+         "prec_show":8
+      },
+      { 
+         "name":"AVA",
          "prec_save":12,
          "prec_show":8
       }
@@ -179,6 +184,19 @@
          "name":"ZRX_USDT",
          "stock":{ 
             "name":"ZRX",
+            "prec":8
+         },
+         "money":{ 
+            "name":"USDT",
+            "prec":4
+         },
+         "min_amount":"0.001",
+         "lock":false
+      },
+      { 
+         "name":"AVA_USDT",
+         "stock":{ 
+            "name":"AVA",
             "prec":8
          },
          "money":{ 
