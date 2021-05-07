@@ -2,7 +2,7 @@
    "symbol_version":11150302022,
    "assets":[ 
       { 
-         "name":"BTC",
+         "name":"ETH",
          "prec_save":12,
          "prec_show":8
       },
@@ -14,9 +14,9 @@
    ],
    "markets":[ 
       { 
-         "name":"BTC_USDT",
+         "name":"ETH_USDT",
          "stock":{ 
-            "name":"BTC",
+            "name":"ETH",
             "prec":8
          },
          "money":{ 
