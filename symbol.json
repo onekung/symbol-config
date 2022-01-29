@@ -1,5 +1,5 @@
 { 
-   "symbol_version":2350070520,
+   "symbol_version":1643432950,
    "assets":[ 
       { 
          "name":"ETH",
@@ -8,6 +8,11 @@
       },
       { 
          "name":"USDT",
+         "prec_save":12,
+         "prec_show":8
+      },
+      { 
+         "name":"BNB",
          "prec_save":12,
          "prec_show":8
       }
