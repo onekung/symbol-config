@@ -1,5 +1,5 @@
 { 
-   "symbol_version":1643453247,
+   "symbol_version":1647342464,
    "assets":[ 
       { 
          "name":"ETH",
@@ -20,6 +20,11 @@
          "name":"tBNB",
          "prec_save":12,
          "prec_show":8
+      },
+      { 
+         "name":"BTC",
+         "prec_save":12,
+         "prec_show":8
       }
    ],
    "markets":[ 
@@ -27,6 +32,19 @@
          "name":"ETH_USDT",
          "stock":{ 
             "name":"ETH",
+            "prec":8
+         },
+         "money":{ 
+            "name":"USDT",
+            "prec":4
+         },
+         "min_amount":"0.001",
+         "lock":false
+      },
+      { 
+         "name":"BTC_USDT",
+         "stock":{ 
+            "name":"BTC",
             "prec":8
          },
          "money":{ 
