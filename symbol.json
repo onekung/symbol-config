@@ -40,7 +40,7 @@
          },
          "min_amount":"0.001",
          "lock":false,
-         "start": 1654147998
+         "start":1654147998
       },
       { 
          "name":"BTC_USDT",
@@ -54,7 +54,7 @@
          },
          "min_amount":"0.001",
          "lock":false,
-         "start": 1654147998
+         "start":1654147998
       }
    ]
 }
