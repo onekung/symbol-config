@@ -1,5 +1,5 @@
 { 
-   "symbol_version":1647342464,
+   "symbol_version":1654148071,
    "assets":[ 
       { 
          "name":"ETH",
@@ -39,7 +39,8 @@
             "prec":4
          },
          "min_amount":"0.001",
-         "lock":false
+         "lock":false,
+         "start": 1654147998
       },
       { 
          "name":"BTC_USDT",
@@ -52,7 +53,8 @@
             "prec":4
          },
          "min_amount":"0.001",
-         "lock":false
+         "lock":false,
+         "start": 1654147998
       }
    ]
 }
