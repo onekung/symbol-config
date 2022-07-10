@@ -1,112 +1,241 @@
-{ 
-   "symbol_version":1657467523,
-   "assets":[ 
-      { 
-         "name":"ETH",
-         "prec_save":12,
-         "prec_show":8
-      },
-      { 
-         "name":"USDT",
-         "prec_save":12,
-         "prec_show":8
-      },
-      { 
-         "name":"BNB",
-         "prec_save":12,
-         "prec_show":8
-      },
-      { 
-         "name":"tBNB",
-         "prec_save":12,
-         "prec_show":8
-      },
-      { 
-         "name":"BTC",
-         "prec_save":12,
-         "prec_show":8
-      },
-      { 
-         "name":"SOL",
-         "prec_save":12,
-         "prec_show":8
-      },
-      { 
-         "name":"THB",
-         "prec_save":12,
-         "prec_show":8
-      }
-   ],
-   "markets":[ 
-      { 
-         "name":"ETH_USDT",
-         "stock":{ 
-            "name":"ETH",
-            "prec":8
-         },
-         "money":{ 
-            "name":"USDT",
-            "prec":4
-         },
-         "min_amount":"0.001",
-         "lock":false,
-         "start":1655126155
-      },
-      { 
-         "name":"BTC_USDT",
-         "stock":{ 
-            "name":"BTC",
-            "prec":8
-         },
-         "money":{ 
-            "name":"USDT",
-            "prec":4
-         },
-         "min_amount":"0.001",
-         "lock":false,
-         "start":1655126155
-      },
-      { 
-         "name":"BNB_USDT",
-         "stock":{ 
-            "name":"BNB",
-            "prec":8
-         },
-         "money":{ 
-            "name":"USDT",
-            "prec":4
-         },
-         "min_amount":"0.001",
-         "lock":false,
-         "start":1655126155
-      },
-      { 
-         "name":"SOL_USDT",
-         "stock":{ 
-            "name":"SOL",
-            "prec":8
-         },
-         "money":{ 
-            "name":"USDT",
-            "prec":4
-         },
-         "min_amount":"0.001",
-         "lock":false,
-         "start":1655126155
-      },
-      { 
-         "name":"BTC_THB",
-         "stock":{ 
-            "name":"SOL",
-            "prec":8
-         },
-         "money":{ 
-            "name":"THB",
-            "prec":4
-         },
-         "min_amount":"0.001",
-         "lock":false,
-         "start":1655126155
-      }
-   ]
+{
+    "symbol_version": 1657468229,
+    "assets": [
+        {
+            "name": "ETH",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "USDT",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "BNB",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "tBNB",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "BTC",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "SOL",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "THB",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "DOT",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "DOGE",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "TRX",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "AVAX",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "MATIC",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "UNI",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "NEAR",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "ATOM",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "ALGO",
+            "prec_save": 12,
+            "prec_show": 8
+        }
+    ],
+    "markets": [
+        {
+            "name": "ETH_USDT",
+            "stock": {
+                "name": "ETH",
+                "prec": 8
+            },
+            "money": {
+                "name": "USDT",
+                "prec": 4
+            },
+            "min_amount": "0.001",
+            "lock": false,
+            "start": 1655126155
+        },
+        {
+            "name": "BTC_USDT",
+            "stock": {
+                "name": "BTC",
+                "prec": 8
+            },
+            "money": {
+                "name": "USDT",
+                "prec": 4
+            },
+            "min_amount": "0.001",
+            "lock": false,
+            "start": 1655126155
+        },
+        {
+            "name": "BNB_USDT",
+            "stock": {
+                "name": "BNB",
+                "prec": 8
+            },
+            "money": {
+                "name": "USDT",
+                "prec": 4
+            },
+            "min_amount": "0.001",
+            "lock": false,
+            "start": 1655126155
+        },
+        {
+            "name": "SOL_USDT",
+            "stock": {
+                "name": "SOL",
+                "prec": 8
+            },
+            "money": {
+                "name": "USDT",
+                "prec": 4
+            },
+            "min_amount": "0.001",
+            "lock": false,
+            "start": 1655126155
+        },
+        {
+            "name": "DOT_USDT",
+            "stock": {
+                "name": "DOT",
+                "prec": 8
+            },
+            "money": {
+                "name": "USDT",
+                "prec": 4
+            },
+            "min_amount": "0.001",
+            "lock": false,
+            "start": 1655126155
+        },
+        {
+            "name": "MATIC_USDT",
+            "stock": {
+                "name": "MATIC",
+                "prec": 8
+            },
+            "money": {
+                "name": "USDT",
+                "prec": 4
+            },
+            "min_amount": "0.001",
+            "lock": false,
+            "start": 1655126155
+        },
+        {
+            "name": "TRX_USDT",
+            "stock": {
+                "name": "TRX",
+                "prec": 8
+            },
+            "money": {
+                "name": "USDT",
+                "prec": 4
+            },
+            "min_amount": "0.001",
+            "lock": false,
+            "start": 1655126155
+        },
+        {
+            "name": "DOGE_USDT",
+            "stock": {
+                "name": "DOGE",
+                "prec": 8
+            },
+            "money": {
+                "name": "USDT",
+                "prec": 4
+            },
+            "min_amount": "0.001",
+            "lock": false,
+            "start": 1655126155
+        },
+        {
+            "name": "AVAX_USDT",
+            "stock": {
+                "name": "AVAX",
+                "prec": 8
+            },
+            "money": {
+                "name": "USDT",
+                "prec": 4
+            },
+            "min_amount": "0.001",
+            "lock": false,
+            "start": 1655126155
+        },
+        {
+            "name": "BTC_THB",
+            "stock": {
+                "name": "BTC",
+                "prec": 8
+            },
+            "money": {
+                "name": "THB",
+                "prec": 4
+            },
+            "min_amount": "0.001",
+            "lock": false,
+            "start": 1655126155
+        },
+        {
+            "name": "ETH_THB",
+            "stock": {
+                "name": "ETH",
+                "prec": 8
+            },
+            "money": {
+                "name": "THB",
+                "prec": 4
+            },
+            "min_amount": "0.001",
+            "lock": false,
+            "start": 1655126155
+        }
+    ]
 }
