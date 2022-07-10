@@ -1,5 +1,5 @@
 {
-    "symbol_version": 1657475096,
+    "symbol_version": 1657475791,
     "assets": [
         {
             "name": "ETH",
@@ -279,6 +279,48 @@
             "name": "AVAX_USDT",
             "stock": {
                 "name": "AVAX",
+                "prec": 8
+            },
+            "money": {
+                "name": "USDT",
+                "prec": 4
+            },
+            "min_amount": "0.001",
+            "lock": false,
+            "start": 1655126155
+        },
+        {
+            "name": "SAND_USDT",
+            "stock": {
+                "name": "SAND",
+                "prec": 8
+            },
+            "money": {
+                "name": "USDT",
+                "prec": 4
+            },
+            "min_amount": "0.001",
+            "lock": false,
+            "start": 1655126155
+        },
+        {
+            "name": "ZIL_USDT",
+            "stock": {
+                "name": "ZIL",
+                "prec": 8
+            },
+            "money": {
+                "name": "USDT",
+                "prec": 4
+            },
+            "min_amount": "0.001",
+            "lock": false,
+            "start": 1655126155
+        },
+        {
+            "name": "MANA_USDT",
+            "stock": {
+                "name": "MANA",
                 "prec": 8
             },
             "money": {
