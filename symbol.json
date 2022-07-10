@@ -1,5 +1,5 @@
 {
-    "symbol_version": 1657468229,
+    "symbol_version": 1657475096,
     "assets": [
         {
             "name": "ETH",
@@ -78,6 +78,86 @@
         },
         {
             "name": "ALGO",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "ADA",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "BUSD",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "DAI",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "FTT",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "LINK",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "XLM",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "BCH",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "VET",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "FLOW",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "MANA",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "SAND",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "APE",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "AXS",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "AAVE",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "FTM",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "ZIL",
             "prec_save": 12,
             "prec_show": 8
         }
