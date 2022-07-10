@@ -1,5 +1,5 @@
 { 
-   "symbol_version":1655126155,
+   "symbol_version":1657467523,
    "assets":[ 
       { 
          "name":"ETH",
@@ -23,6 +23,16 @@
       },
       { 
          "name":"BTC",
+         "prec_save":12,
+         "prec_show":8
+      },
+      { 
+         "name":"SOL",
+         "prec_save":12,
+         "prec_show":8
+      },
+      { 
+         "name":"THB",
          "prec_save":12,
          "prec_show":8
       }
@@ -64,6 +74,34 @@
          },
          "money":{ 
             "name":"USDT",
+            "prec":4
+         },
+         "min_amount":"0.001",
+         "lock":false,
+         "start":1655126155
+      },
+      { 
+         "name":"SOL_USDT",
+         "stock":{ 
+            "name":"SOL",
+            "prec":8
+         },
+         "money":{ 
+            "name":"USDT",
+            "prec":4
+         },
+         "min_amount":"0.001",
+         "lock":false,
+         "start":1655126155
+      },
+      { 
+         "name":"BTC_THB",
+         "stock":{ 
+            "name":"SOL",
+            "prec":8
+         },
+         "money":{ 
+            "name":"THB",
             "prec":4
          },
          "min_amount":"0.001",
