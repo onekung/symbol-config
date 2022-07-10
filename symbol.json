@@ -55,6 +55,20 @@
          "min_amount":"0.001",
          "lock":false,
          "start":1655126155
+      },
+      { 
+         "name":"BNB_USDT",
+         "stock":{ 
+            "name":"BNB",
+            "prec":8
+         },
+         "money":{ 
+            "name":"USDT",
+            "prec":4
+         },
+         "min_amount":"0.001",
+         "lock":false,
+         "start":1655126155
       }
    ]
 }
