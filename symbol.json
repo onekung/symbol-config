@@ -1,5 +1,5 @@
 {
-    "symbol_version": 1657475791,
+    "symbol_version": 1664188080,
     "assets": [
         {
             "name": "ETH",
@@ -167,13 +167,13 @@
             "name": "ETH_USDT",
             "stock": {
                 "name": "ETH",
-                "prec": 8
+                "prec": 4
             },
             "money": {
                 "name": "USDT",
-                "prec": 4
+                "prec": 2
             },
-            "min_amount": "0.001",
+            "min_amount": "0.0001",
             "lock": false,
             "start": 1655126155
         },
@@ -185,9 +185,9 @@
             },
             "money": {
                 "name": "USDT",
-                "prec": 4
+                "prec": 2
             },
-            "min_amount": "0.001",
+            "min_amount": "0.00001",
             "lock": false,
             "start": 1655126155
         },
@@ -195,11 +195,11 @@
             "name": "BNB_USDT",
             "stock": {
                 "name": "BNB",
-                "prec": 8
+                "prec": 4
             },
             "money": {
                 "name": "USDT",
-                "prec": 4
+                "prec": 2
             },
             "min_amount": "0.001",
             "lock": false,
@@ -209,13 +209,13 @@
             "name": "SOL_USDT",
             "stock": {
                 "name": "SOL",
-                "prec": 8
+                "prec": 2
             },
             "money": {
                 "name": "USDT",
-                "prec": 4
+                "prec": 2
             },
-            "min_amount": "0.001",
+            "min_amount": "0.01",
             "lock": false,
             "start": 1655126155
         },
@@ -223,13 +223,13 @@
             "name": "DOT_USDT",
             "stock": {
                 "name": "DOT",
-                "prec": 8
+                "prec": 2
             },
             "money": {
                 "name": "USDT",
-                "prec": 4
+                "prec": 2
             },
-            "min_amount": "0.001",
+            "min_amount": "0.01",
             "lock": false,
             "start": 1655126155
         },
@@ -237,13 +237,13 @@
             "name": "MATIC_USDT",
             "stock": {
                 "name": "MATIC",
-                "prec": 8
+                "prec": 1
             },
             "money": {
                 "name": "USDT",
                 "prec": 4
             },
-            "min_amount": "0.001",
+            "min_amount": "0.1",
             "lock": false,
             "start": 1655126155
         },
@@ -251,13 +251,13 @@
             "name": "TRX_USDT",
             "stock": {
                 "name": "TRX",
-                "prec": 8
+                "prec": 1
             },
             "money": {
                 "name": "USDT",
-                "prec": 4
+                "prec": 5
             },
-            "min_amount": "0.001",
+            "min_amount": "0.1",
             "lock": false,
             "start": 1655126155
         },
@@ -265,13 +265,13 @@
             "name": "DOGE_USDT",
             "stock": {
                 "name": "DOGE",
-                "prec": 8
+                "prec": 0
             },
             "money": {
                 "name": "USDT",
-                "prec": 4
+                "prec": 5
             },
-            "min_amount": "0.001",
+            "min_amount": "1",
             "lock": false,
             "start": 1655126155
         },
@@ -279,13 +279,13 @@
             "name": "AVAX_USDT",
             "stock": {
                 "name": "AVAX",
-                "prec": 8
+                "prec": 2
             },
             "money": {
                 "name": "USDT",
-                "prec": 4
+                "prec": 2
             },
-            "min_amount": "0.001",
+            "min_amount": "0.01",
             "lock": false,
             "start": 1655126155
         },
@@ -293,13 +293,13 @@
             "name": "SAND_USDT",
             "stock": {
                 "name": "SAND",
-                "prec": 8
+                "prec": 0
             },
             "money": {
                 "name": "USDT",
                 "prec": 4
             },
-            "min_amount": "0.001",
+            "min_amount": "1",
             "lock": false,
             "start": 1655126155
         },
@@ -307,13 +307,13 @@
             "name": "ZIL_USDT",
             "stock": {
                 "name": "ZIL",
-                "prec": 8
+                "prec": 1
             },
             "money": {
                 "name": "USDT",
-                "prec": 4
+                "prec": 5
             },
-            "min_amount": "0.001",
+            "min_amount": "0.1",
             "lock": false,
             "start": 1655126155
         },
@@ -321,13 +321,13 @@
             "name": "MANA_USDT",
             "stock": {
                 "name": "MANA",
-                "prec": 8
+                "prec": 1
             },
             "money": {
                 "name": "USDT",
                 "prec": 4
             },
-            "min_amount": "0.001",
+            "min_amount": "1",
             "lock": false,
             "start": 1655126155
         },
@@ -339,9 +339,9 @@
             },
             "money": {
                 "name": "THB",
-                "prec": 4
+                "prec": 2
             },
-            "min_amount": "0.001",
+            "min_amount": "10",
             "lock": false,
             "start": 1655126155
         },
@@ -349,13 +349,13 @@
             "name": "ETH_THB",
             "stock": {
                 "name": "ETH",
-                "prec": 8
+                "prec": 4
             },
             "money": {
                 "name": "THB",
-                "prec": 4
+                "prec": 2
             },
-            "min_amount": "0.001",
+            "min_amount": "10",
             "lock": false,
             "start": 1655126155
         }
