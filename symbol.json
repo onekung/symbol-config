@@ -17,11 +17,6 @@
             "prec_show": 8
         },
         {
-            "name": "tBNB",
-            "prec_save": 12,
-            "prec_show": 8
-        },
-        {
             "name": "BTC",
             "prec_save": 12,
             "prec_show": 8
