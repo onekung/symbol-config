@@ -160,6 +160,11 @@
             "name": "ZIL",
             "prec_save": 12,
             "prec_show": 8
+        },
+        {
+            "name": "BOLO",
+            "prec_save": 12,
+            "prec_show": 8
         }
     ],
     "markets": [
@@ -321,6 +326,20 @@
             "name": "MANA_USDT",
             "stock": {
                 "name": "MANA",
+                "prec": 1
+            },
+            "money": {
+                "name": "USDT",
+                "prec": 4
+            },
+            "min_amount": "1",
+            "lock": false,
+            "start": 1655126155
+        },
+        {
+            "name": "BOLO_USDT",
+            "stock": {
+                "name": "BOLO",
                 "prec": 1
             },
             "money": {
