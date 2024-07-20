@@ -1,5 +1,5 @@
 {
-    "symbol_version": 1718963716,
+    "symbol_version": 1721447099,
     "assets": [
         {
             "name": "ETH",
@@ -27,16 +27,6 @@
             "prec_show": 8
         },
         {
-            "name": "THB",
-            "prec_save": 12,
-            "prec_show": 8
-        },
-        {
-            "name": "DOT",
-            "prec_save": 12,
-            "prec_show": 8
-        },
-        {
             "name": "DOGE",
             "prec_save": 12,
             "prec_show": 8
@@ -47,52 +37,7 @@
             "prec_show": 8
         },
         {
-            "name": "AVAX",
-            "prec_save": 12,
-            "prec_show": 8
-        },
-        {
             "name": "MATIC",
-            "prec_save": 12,
-            "prec_show": 8
-        },
-        {
-            "name": "UNI",
-            "prec_save": 12,
-            "prec_show": 8
-        },
-        {
-            "name": "NEAR",
-            "prec_save": 12,
-            "prec_show": 8
-        },
-        {
-            "name": "ATOM",
-            "prec_save": 12,
-            "prec_show": 8
-        },
-        {
-            "name": "ALGO",
-            "prec_save": 12,
-            "prec_show": 8
-        },
-        {
-            "name": "ADA",
-            "prec_save": 12,
-            "prec_show": 8
-        },
-        {
-            "name": "BUSD",
-            "prec_save": 12,
-            "prec_show": 8
-        },
-        {
-            "name": "DAI",
-            "prec_save": 12,
-            "prec_show": 8
-        },
-        {
-            "name": "FTT",
             "prec_save": 12,
             "prec_show": 8
         },
@@ -102,57 +47,12 @@
             "prec_show": 8
         },
         {
-            "name": "XLM",
-            "prec_save": 12,
-            "prec_show": 8
-        },
-        {
             "name": "BCH",
             "prec_save": 12,
             "prec_show": 8
         },
         {
-            "name": "VET",
-            "prec_save": 12,
-            "prec_show": 8
-        },
-        {
-            "name": "FLOW",
-            "prec_save": 12,
-            "prec_show": 8
-        },
-        {
-            "name": "MANA",
-            "prec_save": 12,
-            "prec_show": 8
-        },
-        {
-            "name": "SAND",
-            "prec_save": 12,
-            "prec_show": 8
-        },
-        {
-            "name": "APE",
-            "prec_save": 12,
-            "prec_show": 8
-        },
-        {
-            "name": "AXS",
-            "prec_save": 12,
-            "prec_show": 8
-        },
-        {
-            "name": "AAVE",
-            "prec_save": 12,
-            "prec_show": 8
-        },
-        {
-            "name": "FTM",
-            "prec_save": 12,
-            "prec_show": 8
-        },
-        {
-            "name": "ZIL",
+            "name": "LTC",
             "prec_save": 12,
             "prec_show": 8
         },
@@ -220,20 +120,6 @@
             "start": 1655126155
         },
         {
-            "name": "DOT_USDT",
-            "stock": {
-                "name": "DOT",
-                "prec": 2
-            },
-            "money": {
-                "name": "USDT",
-                "prec": 2
-            },
-            "min_amount": "0.01",
-            "lock": false,
-            "start": 1655126155
-        },
-        {
             "name": "MATIC_USDT",
             "stock": {
                 "name": "MATIC",
@@ -276,62 +162,6 @@
             "start": 1655126155
         },
         {
-            "name": "AVAX_USDT",
-            "stock": {
-                "name": "AVAX",
-                "prec": 2
-            },
-            "money": {
-                "name": "USDT",
-                "prec": 2
-            },
-            "min_amount": "0.01",
-            "lock": false,
-            "start": 1655126155
-        },
-        {
-            "name": "SAND_USDT",
-            "stock": {
-                "name": "SAND",
-                "prec": 0
-            },
-            "money": {
-                "name": "USDT",
-                "prec": 4
-            },
-            "min_amount": "1",
-            "lock": false,
-            "start": 1655126155
-        },
-        {
-            "name": "ZIL_USDT",
-            "stock": {
-                "name": "ZIL",
-                "prec": 1
-            },
-            "money": {
-                "name": "USDT",
-                "prec": 5
-            },
-            "min_amount": "0.1",
-            "lock": false,
-            "start": 1655126155
-        },
-        {
-            "name": "MANA_USDT",
-            "stock": {
-                "name": "MANA",
-                "prec": 1
-            },
-            "money": {
-                "name": "USDT",
-                "prec": 4
-            },
-            "min_amount": "1",
-            "lock": false,
-            "start": 1655126155
-        },
-        {
             "name": "BOLO_USDT",
             "stock": {
                 "name": "BOLO",
@@ -342,34 +172,6 @@
                 "prec": 4
             },
             "min_amount": "1",
-            "lock": false,
-            "start": 1655126155
-        },
-        {
-            "name": "BTC_THB",
-            "stock": {
-                "name": "BTC",
-                "prec": 8
-            },
-            "money": {
-                "name": "THB",
-                "prec": 2
-            },
-            "min_amount": "10",
-            "lock": false,
-            "start": 1655126155
-        },
-        {
-            "name": "ETH_THB",
-            "stock": {
-                "name": "ETH",
-                "prec": 4
-            },
-            "money": {
-                "name": "THB",
-                "prec": 2
-            },
-            "min_amount": "10",
             "lock": false,
             "start": 1655126155
         }
