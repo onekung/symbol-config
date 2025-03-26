@@ -52,11 +52,6 @@
             "prec_show": 8
         },
         {
-            "name": "BCH",
-            "prec_save": 12,
-            "prec_show": 8
-        },
-        {
             "name": "LTC",
             "prec_save": 12,
             "prec_show": 8
