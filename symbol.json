@@ -1,5 +1,5 @@
 {
-    "symbol_version": 1743022038,
+    "symbol_version": 1745306529,
     "assets": [
         {
             "name": "ETH",
@@ -57,7 +57,7 @@
             "prec_show": 8
         },
         {
-            "name": "BOLO",
+            "name": "THBW",
             "prec_save": 12,
             "prec_show": 8
         }
@@ -156,20 +156,6 @@
             "money": {
                 "name": "USDT",
                 "prec": 5
-            },
-            "min_amount": "1",
-            "lock": false,
-            "start": 1655126155
-        },
-        {
-            "name": "BOLO_USDT",
-            "stock": {
-                "name": "BOLO",
-                "prec": 1
-            },
-            "money": {
-                "name": "USDT",
-                "prec": 4
             },
             "min_amount": "1",
             "lock": false,
