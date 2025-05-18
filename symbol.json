@@ -55,11 +55,6 @@
             "name": "LTC",
             "prec_save": 12,
             "prec_show": 8
-        },
-        {
-            "name": "THBW",
-            "prec_save": 12,
-            "prec_show": 8
         }
     ],
     "markets": [
