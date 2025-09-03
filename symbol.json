@@ -155,6 +155,20 @@
             "min_amount": "1",
             "lock": false,
             "start": 1655126155
+        },
+        {
+            "name": "USDT_THB",
+            "stock": {
+                "name": "USDT",
+                "prec": 4
+            },
+            "money": {
+                "name": "THB",
+                "prec": 2
+            },
+            "min_amount": "1",
+            "lock": false,
+            "start": 1655126155
         }
     ]
 }
