@@ -1,5 +1,5 @@
 {
-    "symbol_version": 1756907361,
+    "symbol_version": 1784869458,
     "assets": [
         {
             "name": "ETH",
@@ -13,6 +13,11 @@
         },
         {
             "name": "THB",
+            "prec_save": 12,
+            "prec_show": 8
+        },
+        {
+            "name": "THB_P2P",
             "prec_save": 12,
             "prec_show": 8
         },
